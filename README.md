@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-https://thiagoplaca.github.io/OrderSummaryComponent/
+- Link: https://thiagoplaca.github.io/OrderSummaryComponent/
 
 ## My process
 
